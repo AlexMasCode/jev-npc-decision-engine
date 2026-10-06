@@ -1,0 +1,10 @@
+{
+  "name": "Aggressive NPC",
+  "npc_health": 80,
+  "player_health": 70,
+  "player_weapon_drawn": false,
+  "player_reputation": -35,
+  "guards_nearby": false,
+  "distance_to_player": 4,
+  "npc_personality": "aggressive"
+}

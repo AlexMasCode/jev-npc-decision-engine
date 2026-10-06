@@ -1,0 +1,10 @@
+{
+  "name": "Guards nearby",
+  "npc_health": 45,
+  "player_health": 95,
+  "player_weapon_drawn": true,
+  "player_reputation": -85,
+  "guards_nearby": true,
+  "distance_to_player": 3,
+  "npc_personality": "neutral"
+}
